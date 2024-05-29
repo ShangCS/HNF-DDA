@@ -22,7 +22,7 @@ HNF-DDA is tested on Ubuntu 22.04 with Python 3.8.
 - data_utils.py: data pre-processing
 - dataset.py: dataset loading
 - parse.py: initializing the model parameters
-- hnformer: encoder (The base encoder code is derived from [NodeFormer](https://github.com/qitianwu/NodeFormer))
+- hnformer.py: encoder (The base encoder code is derived from [nodeformer.py](https://github.com/qitianwu/NodeFormer))
 - embedding.py: learning embeddings by hnformer model
 - predict_associations.py: prediction drug-disease associations
 
@@ -43,4 +43,5 @@ python predict_associations.py
 ```
 
 ## Citation
+Please cite our paper if you find the code useful for your research.
 ...
