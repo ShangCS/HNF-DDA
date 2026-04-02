@@ -44,4 +44,13 @@ python predict_associations.py
 
 ## Citation
 Please cite our paper if you find the code useful for your research.
-...
+@article{shang2025hnf,
+  title={HNF-DDA: subgraph contrastive-driven transformer-style heterogeneous network embedding for drug--disease association prediction},
+  author={Shang, Yifan and Wang, Zixu and Chen, Yangyang and Yang, Xinyu and Ren, Zhonghao and Zeng, Xiangxiang and Xu, Lei},
+  journal={BMC biology},
+  volume={23},
+  number={1},
+  pages={101},
+  year={2025},
+  publisher={Springer}
+}
